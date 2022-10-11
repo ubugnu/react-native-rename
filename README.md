@@ -33,7 +33,7 @@ $ npx react-native-rename "Travel App"
 $ npx react-native-rename "Travel App" -b com.junedomingo.travelapp
 ```
 
-### Local installation
+### Global installation
 With **Yarn**:
 ```
 $ yarn global add react-native-rename
